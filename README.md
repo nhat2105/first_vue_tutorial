@@ -1,4 +1,4 @@
-# first_view_tutorial
+# first_vue_tutorial
 
 This template should help get you started developing with Vue 3 in Vite.
 
